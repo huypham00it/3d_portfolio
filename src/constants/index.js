@@ -115,7 +115,7 @@ export const experiences = [
         company_name: "Rio Technology",
         icon: rio,
         iconBg: "#accbe1",
-        date: "March 2021 - Nov 2023",
+        date: "Aug 2022 - present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
